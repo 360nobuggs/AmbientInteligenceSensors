@@ -1,0 +1,1 @@
+Creation of machine learning models using medical grade datasets, for prediction of stress based on heartrate using both sensors from a Samsung and apple smartwatch, testing viability of stress detection using commercial grade devices.
